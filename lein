@@ -7,7 +7,7 @@
 #
 # See also http://leiningen.org/#install.
 
-export LEIN_VERSION="2.3.4"
+export LEIN_VERSION="2.4.0"
 
 case $LEIN_VERSION in
     *SNAPSHOT) SNAPSHOT="YES" ;;
